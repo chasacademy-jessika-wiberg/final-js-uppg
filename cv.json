@@ -1,0 +1,21 @@
+{
+    "education": [
+        { "name": "Chas Academy - UX/UI-design med frontendkompetens"},
+        { "name": "Sophiahemmet Högskola - Sjuksköterskeprogrammet" },
+        { "name": " Röda Korset - Handledarutbildning" },
+        { "name": "Karolinska Institutet - Medicinsk Akupunktur" },
+        { "name": "Gångsätra Gymnasium - Estetiska programmet"}
+    
+    
+    ],
+    "work": [
+        { "name": "Sjuksköterskearbete klinisk verksamhet 2019 - pågående" },
+        { "name": "DJ frilansande" },
+        { "name": "Konstnär & Illustratör frilansande" },
+        { "name": "Arbete inom restaurang och bar" }
+    ]
+    
+}
+
+
+
