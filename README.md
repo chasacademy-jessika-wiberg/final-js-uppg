@@ -1,3 +1,3 @@
 # final-js-uppg
 Jessika Wiberg
-https://github.com/chasacademy-jessika-wiberg/final-js-uppg/
+https://chasacademy-jessika-wiberg.github.io/final-js-uppg/
